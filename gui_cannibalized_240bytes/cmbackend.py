@@ -312,9 +312,10 @@ class streamAdcThread(QThread):
                 success += 1
                 data_point = self.dataTable.row
                 data_point['out'] = [data[i] for i in list(range(0, datalen))]
-                self.values = [data[i] for i in range(0,datalen)]
+                #self.values = [data[i] for i in list(range(0,datalen,40))]
+                self.values = [data[i] for i in list(range(0,datalen,24))]
                 out.append([self.values[i] for i in self.plotCh])
-                self.msbs = [self.values[i] for i in range(0, datalen)]
+                self.msbs = [self.values[i] for i in range(0, 10)]
                 hdout.append(self.msbs)
                 data_point['time'] = data_time
                 data_point.append()
@@ -327,7 +328,7 @@ class streamAdcThread(QThread):
                 #     # self.streamAdcData.emit(out, hdout)
                 #     # out = []
                 #     # hdout = []   
-                if samples%63 == 0:
+                if samples%40 == 0:
 
                     self.streamAdcData.emit(out, hdout)
                     out = []

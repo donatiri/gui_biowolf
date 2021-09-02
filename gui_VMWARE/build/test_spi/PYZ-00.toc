@@ -1,0 +1,545 @@
+('Z:\\home\\ric\\Documents\\BIOWOLF\\gui\\build\\test_spi\\PYZ-00.pyz',
+ [('inspect',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\os.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\ric\\local settings\\application '
+   'data\\Programs\\Python\\Python36\\lib\\struct.py',
+   'PYMODULE')])

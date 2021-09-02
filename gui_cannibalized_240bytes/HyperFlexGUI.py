@@ -34,7 +34,7 @@ class HyperFlexGUI(QDockWidget):
         #self.numPlots = 4   
         #self.xRange = self.ui.xRange.value() # number of ms (samples) over which to plot continuous data
         #self.xRange = 2000
-        self.xRange = 10000
+        self.xRange = 2000
         self.plotStart = 0
 
         # self.dataPlot = np.zeros((self.numPlots, self.ui.xRange.maximum())) # aggregation of data to plot (scrolling style)
